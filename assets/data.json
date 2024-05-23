@@ -1,0 +1,22 @@
+{
+  "pieChartData": [
+    { "label": "Category A", "value": 30 },
+    { "label": "Category B", "value": 10 },
+    { "label": "Category C", "value": 20 },
+    { "label": "Category D", "value": 20 },
+    { "label": "Category E", "value": 20 }
+  ],
+  "barChartData": [
+    { "label": "Category A", "value1": 30, "value2": 25 },
+    { "label": "Category B", "value1": 10, "value2": 15 },
+    { "label": "Category C", "value1": 20, "value2": 30 },
+    { "label": "Category D", "value1": 20, "value2": 10 },
+    { "label": "Category E", "value1": 20, "value2": 5 }
+  ],
+  "radarChartData": [
+    {
+      "set1": { "label": "Dataset 1", "values": [30, 10, 20, 20, 20] },
+      "set2": { "label": "Dataset 2", "values": [20, 30, 10, 20, 20] }
+    }
+  ]
+}
